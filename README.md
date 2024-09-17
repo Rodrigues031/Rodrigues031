@@ -3,8 +3,11 @@
 <b>Atualmente aluno cursando  Informática e Desenvolvimento WEB na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/)</b>.
 
 <hr>
-## Unidades Curriculares
+
+## Unidades Curriculares 
+
 <b> Concluidas <b>
+ 
 - [x]  FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO
 - [x]  COMUNICAÇÃO E REDAÇÃO TÉCNICA
 - [x]  INFORMÁTICA APLICADA
@@ -22,7 +25,7 @@
 <!-- Para quem quiser, são esses os sites https://desenvolvedor.io/ e https://balta.io/ -->
 
 
-<div><a href="https://www.youtube.com/channel/UChikU423HtvQDp-vH2ITYIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://instagram.com/marquescharlon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marquescharlon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+<div></a> <a href="https://instagram.com/samu__031_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marquescharlon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 </br>
 
 
