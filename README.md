@@ -3,7 +3,15 @@
 <b>Atualmente aluno cursando  Informática e Desenvolvimento WEB na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/)</b>.
 
 <hr>
+## Unidades Curriculares
+<b> Concluidas <b>
+- [x]  FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO
+- [x]  COMUNICAÇÃO E REDAÇÃO TÉCNICA
+- [x]  INFORMÁTICA APLICADA
+- [x]  LÓGICA DE PROGRAMAÇÃO
 
+ <b> Em progresso <b>
+- [ ]  PROJETO DE INTERFACE WEB
 
 
 
